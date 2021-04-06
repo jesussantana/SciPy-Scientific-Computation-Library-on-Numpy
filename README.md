@@ -27,4 +27,4 @@
 
 
 ## Where is the SciPy Codebase?
-### The source code for SciPy is located at this github repository https://github.com/scipy/scipy
+### The source code for SciPy is located at this github repository [GitHub Scipy](https://github.com/scipy/scipy)
